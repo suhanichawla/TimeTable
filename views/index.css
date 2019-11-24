@@ -1,0 +1,29 @@
+
+.right,.left,.centre{
+    margin:0;
+    display: inline-block;
+    height: 100vh;
+}
+.left{
+    margin-top: 0;
+    width: 30%;
+    background-color: aquamarine;
+}
+.centre{
+    margin-top: 0;
+    width: 50%;
+    background-color: blueviolet;
+}
+.right{
+    margin-top: 0;
+    width:20%;
+    background-color:orange;
+}
+body{
+    margin:0;
+}
+.DP{
+    background-color: black;
+    height: 100px;
+    width:100px;
+}
